@@ -1,0 +1,7 @@
+E:\Tugas Kuliah\Semester VII\BOOTCAMP Pen APK\ConsoleSIApotek\ConsoleSIApotek\bin\Debug\ConsoleSIApotek.exe.config
+E:\Tugas Kuliah\Semester VII\BOOTCAMP Pen APK\ConsoleSIApotek\ConsoleSIApotek\bin\Debug\ConsoleSIApotek.exe
+E:\Tugas Kuliah\Semester VII\BOOTCAMP Pen APK\ConsoleSIApotek\ConsoleSIApotek\bin\Debug\ConsoleSIApotek.pdb
+E:\Tugas Kuliah\Semester VII\BOOTCAMP Pen APK\ConsoleSIApotek\ConsoleSIApotek\obj\Debug\ConsoleSIApotek.csproj.CoreCompileInputs.cache
+E:\Tugas Kuliah\Semester VII\BOOTCAMP Pen APK\ConsoleSIApotek\ConsoleSIApotek\obj\Debug\ConsoleSIApotek.exe
+E:\Tugas Kuliah\Semester VII\BOOTCAMP Pen APK\ConsoleSIApotek\ConsoleSIApotek\obj\Debug\ConsoleSIApotek.pdb
+E:\Tugas Kuliah\Semester VII\BOOTCAMP Pen APK\ConsoleSIApotek\ConsoleSIApotek\obj\Debug\ConsoleSIApotek.csprojAssemblyReference.cache
